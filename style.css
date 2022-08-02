@@ -1,0 +1,27 @@
+body
+{
+  background-color:aquamarine;
+}
+
+#camera
+{
+  border:2px dotted black;
+  height:300px;
+  width:300px;
+}
+
+.heading
+{
+  color:white;
+  background-color:brown;
+}
+
+.family_members
+{
+  color:blue;
+}
+
+p
+{
+  color: blue;
+}
